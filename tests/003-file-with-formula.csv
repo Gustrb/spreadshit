@@ -1,0 +1,2 @@
+name,min_age,max_age,avg
+gustavo,10,18,=(B1+C1)/2
